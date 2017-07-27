@@ -10,7 +10,7 @@
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.9",
-    "skinBranch": "0.20.9",
+    "skinBranch": "0.22.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
 }
